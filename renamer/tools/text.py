@@ -44,7 +44,7 @@ For source code check about
 We are Warmly welcome to [MRKP RENAME BOT](https://t.me/mrkprenamebot)
 Iam a simple Telegram Renamer Bot With Permanent Thumbnail Support. Send Me Any File Or Media To Get Started.
 
-𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 /h𝖾𝗅𝗉.
+𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 /h𝖾𝗅𝗉 .
 
 **Maintained By:** {bot_owner}
 """
